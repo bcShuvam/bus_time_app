@@ -6,7 +6,7 @@ import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
 import 'package:json/classes/secureStorage.dart';
 import 'package:json/models/envioment.dart';
-import 'package:json/pages/addBusTime.dart';
+import 'package:json/pages/createUpdateBusTime.dart';
 import 'package:json/themes/customColors.dart';
 import 'package:json/widgets/elevatedButton.dart';
 import 'package:json/utils/utils.dart';

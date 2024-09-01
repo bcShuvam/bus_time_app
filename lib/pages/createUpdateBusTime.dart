@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 import 'package:json/classes/secureStorage.dart';
 import 'package:json/models/envioment.dart';
 import 'package:json/models/jsonModel.dart';
-import 'package:json/pages/dataTable.dart';
+import 'package:json/pages/showBusTimeTable.dart';
 import 'package:json/pages/showBusTime.dart';
 import 'package:json/themes/customColors.dart';
 import 'package:json/widgets/elevatedButton.dart';
